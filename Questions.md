@@ -2,22 +2,30 @@
 
 _How are you feeling today?
   a. I feel content
+  
   b. I feel tired
+  
   c. I feel confused
   
   
  +++PAGE TWO+++
  
  _How would you describe yourself?
+  
   a. Introvert
+  
   b. Extrovert
+  
   c. Always confused
   
  +++PAGE THREE+++
  
  _What color do you relate to most?
+  
   a. Perriwinkle
+  
   b. Terra Cotta
+  
   c. Mauve
   
   
@@ -25,8 +33,11 @@ _How are you feeling today?
  
  _Who's your daddy?
  
+ 
  a. Excuse me?
+ 
  b. RUDE
+ 
  c. N/A
  
  
@@ -34,8 +45,11 @@ _How are you feeling today?
 
 _What color would you paint the white house?
 
+
 a. Off white
+
 b. Like something cute..pink??
+
 c. Chrome
 
 
@@ -43,8 +57,11 @@ c. Chrome
 
 _You're on a deserted island for two weeks, what do you bring?
 
+
 a. Matches
+
 b. Every season of Sex and the City on DVD
+
 c. Book
 
 
