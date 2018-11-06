@@ -1,6 +1,7 @@
 +++HOME PAGE+++
 
 _How are you feeling today?
+  
   a. I feel content
   
   b. I feel tired
