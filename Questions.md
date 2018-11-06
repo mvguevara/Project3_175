@@ -1,4 +1,4 @@
-<b>HOME PAGE<b>
+HOME PAGE
 
 How are you feeling today?
   a. I feel content
@@ -6,7 +6,7 @@ How are you feeling today?
   c. I feel confused
   
   
- <b>PAGE TWO<b>
+ PAGE TWO
  
  How would you describe yourself?
   a. Introvert
